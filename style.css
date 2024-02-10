@@ -1,0 +1,134 @@
+div {
+
+    color: white;
+    width: 100%;
+    height: 80px;
+
+}
+
+body {
+    background: rgb(223, 225, 237);
+    background: linear-gradient(0deg, rgba(223, 225, 237, 1) 0%, rgba(189, 197, 220, 1) 100%);
+    height: 100vh;
+}
+
+.a1 {
+
+    text-align: center;
+    margin-top: -46px;
+    margin-left: 273px;
+    position: sticky;
+
+}
+
+.a2 {
+    color: white;
+    text-align: center;
+    margin-left: 273px;
+    margin-top: -61px;
+    position: sticky;
+}
+
+.a3 {
+    color: white;
+    text-align: end;
+    margin-top: -99px;
+    margin-left: -214px;
+    position: sticky;
+
+}
+
+.c1 {
+    color: white;
+    background-color: rgb(53, 55, 147);
+    margin-left: 1360px;
+    margin-top: -60px;
+    position: fixed;
+}
+
+.div1 {
+    background-color: rgb(53, 55, 147);
+}
+
+.div2 {
+    color: rgb(53, 55, 147);
+    width: 50%;
+    height: 45%;
+    border-radius: 60px;
+    padding: 30px;
+}
+
+
+p {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+.div3 {
+    color: rgb(53, 55, 147);
+    text-align: center;
+    margin-left: 300px;
+    margin-top: -440px;
+    font-size: x-large;
+}
+
+.d4 {
+    color: rgb(53, 55, 147);
+    width: 50%;
+    height: 20%;
+    margin-left: 400px;
+    margin-top: -20px;
+
+}
+
+img {
+    width: 800px;
+
+}
+
+p {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+}
+
+.d5 {
+    color: rgb(53, 55, 147);
+    margin-bottom: 10px;
+
+}
+
+.birth {
+    margin-left: -74px;
+    margin-top: 212px;
+    color: rgb(53, 55, 147);
+}
+
+.Daynum {
+    width: 80px;
+    margin-left: 760px;
+    margin-top: -107px;
+}
+
+.year1 {
+    margin-top: -54px;
+    margin-left: 110px;
+}
+
+.para2 {
+    color: rgb(53, 55, 147);
+    margin-left: 55px;
+    margin-top: -30px;
+}
+
+.butt2 {
+    color: white;
+    margin-left: 70px;
+    background-color: green;
+    margin-top: -50px;
+}
+
+.underline {
+    width: 610px;
+}
